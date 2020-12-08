@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="729f5759-56d0-418b-8595-9279ba350552" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1k4KvSonxqhQByJWUddLMoDSx9a" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Laboratório/Laboratório.iml" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="729f5759-56d0-418b-8595-9279ba350552" name="Default Changelist" comment="" />
+      <created>1604954654007</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604954654007</updated>
+      <workItem from="1604954903736" duration="807000" />
+      <workItem from="1604955766017" duration="489000" />
+      <workItem from="1604956315666" duration="178000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="169" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604955445617">
+      <screen x="65" y="0" width="1301" height="768" />
+    </state>
+    <state x="169" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog/65.0.1301.768@65.0.1301.768" timestamp="1604955445617" />
+    <state x="470" y="186" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604954958496">
+      <screen x="65" y="0" width="1301" height="768" />
+    </state>
+    <state x="470" y="186" key="#com.intellij.fileTypes.FileTypeChooser/65.0.1301.768@65.0.1301.768" timestamp="1604954958496" />
+    <state x="495" y="139" key="FileChooserDialogImpl" timestamp="1604955842873">
+      <screen x="65" y="0" width="1301" height="768" />
+    </state>
+    <state x="495" y="139" key="FileChooserDialogImpl/65.0.1301.768@65.0.1301.768" timestamp="1604955842873" />
+    <state x="98" y="4" key="new project wizard" timestamp="1604956495136">
+      <screen x="65" y="0" width="1301" height="768" />
+    </state>
+    <state x="98" y="4" key="new project wizard/65.0.1301.768@65.0.1301.768" timestamp="1604956495136" />
+    <state x="372" y="172" key="run.anything.popup" timestamp="1604955403645">
+      <screen x="65" y="0" width="1301" height="768" />
+    </state>
+    <state x="372" y="172" key="run.anything.popup/65.0.1301.768@65.0.1301.768" timestamp="1604955403645" />
+  </component>
+</project>
